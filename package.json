@@ -1,0 +1,25 @@
+{
+  "name": "testingdaijs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@makerdao/dai": "^0.23.0-rc.1",
+    "@makerdao/dai-plugin-mcd": "^1.0.1",
+    "@babel/register": "latest",
+    "@babel/core": "^7.6.4",
+    "@babel/plugin-transform-runtime": "^7.6.2",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/runtime": "^7.6.3",
+    "@babel/plugin-proposal-class-properties": "^7.5.5"
+  },
+  "devDependencies": {
+    "@makerdao/dai": "^0.23.0-rc.1"
+  }
+}
